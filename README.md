@@ -21,7 +21,7 @@ My goals are to
 
 Current Course: [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)    
 Courses Completed: 0  
-Total Points earned:200 
+Total Points earned: 200 
 
 | Date Finished | Activity                  | Points | Links  |  
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
