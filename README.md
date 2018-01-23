@@ -26,7 +26,7 @@ Total Points earned: 700
 | Date Finished | Activity                  | Points | Links  |  
 | ------------- | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------- |
 | 13/1/2018     | Book                      | 200 | [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) |
-| 23/1/2018           | Course                    | 500 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
+| 23/1/2018     | Course                    | 500 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
 
 
 ## Get Job Ready - Python Edition
