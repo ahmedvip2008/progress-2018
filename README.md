@@ -29,6 +29,7 @@ Total Points earned: 700
 | 23/1/2018     | Course                    | 500 | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
 | WIP           | Course                    | 500 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)
 | WIP           | Course                    | 500 | [Introduction to Engineering: Imagine. Design. Engineer!](https://www.edx.org/course/introduction-engineering-imagine-design-asux-fse100x-0)
+| 5/4/2018      | Course                    | 500 | [Practical JavaScript](https://watchandcode.com)
 
 
 ## Get Job Ready - Python Edition
