@@ -30,7 +30,6 @@ Total Points earned: 700
 | WIP           | Course                    | 500 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x)
 | WIP           | Course                    | 500 | [Introduction to Engineering: Imagine. Design. Engineer!](https://www.edx.org/course/introduction-engineering-imagine-design-asux-fse100x-0)
 | 5/4/2018      | Course                    | 500 | [Practical JavaScript](https://watchandcode.com)
-
 | WIP           | Course                    | 500 | [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!)
 
 
